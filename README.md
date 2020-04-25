@@ -60,4 +60,4 @@ The music that is played is stored in the `queue.txt` inside the `data` folder. 
 
 ## Author
 
-This bot was made by [moonstar-x](https://github.com/moonstar-x).
+This bot was made by [Jerlag_01](https://github.com/Jerlag01).
