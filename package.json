@@ -1,27 +1,32 @@
 {
-  "name": "discord-music-24-7",
-  "version": "1.0.0",
-  "description": "A 24/7 music bot for Discord.",
+  "name": "music-bot",
+  "version": "1.0.1",
+  "description": "A 24/7 music bot for discord",
   "main": "./src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./app.js"
+    "start": "node ./src/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/moonstar-x/discord-music-24-7.git"
-  },
-  "author": "moonstar-x",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/moonstar-x/discord-music-24-7/issues"
-  },
-  "homepage": "https://github.com/moonstar-x/discord-music-24-7#readme",
   "dependencies": {
     "discord.js": "github:discordjs/discord.js",
     "fs": "0.0.1-security",
     "logger": "github:moonstar-x/logger",
     "ytdl-core": "2.0.1",
     "node-opus": "0.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ServerNode/Music-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "music",
+    "discord"
+  ],
+  "author": "Jerlag_01",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ServerNode/Music-bot/issues"
+  },
+  "homepage": "https://github.com/ServerNode/Music-bot#readme"
 }
