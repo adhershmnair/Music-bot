@@ -27,10 +27,10 @@ To self-host this bot, you'll need the following:
 In order to self-host this bot, first you'll need to clone this repository.
 
 ```
-git clone https://github.com/moonstar-x/discord-music-24-7.git
+git clone https://github.com/ServerNode/Music-bot.git
 ```
 
-Then, inside the `config` folder, rename the file *settings.json.example* to *settings.json* and edit the file with your own Discord Token, and the ID's of the owner and the channel where the music should be played. To see how to find these IDs, you  can check out [this guide](<https://github.com/moonstar-x/discord-downtime-notifier/wiki/Getting-User,-Channel-and-Server-IDs>). If you don't have a Discord token yet, you can see a guide on how to get one [here](<https://github.com/moonstar-x/discord-downtime-notifier/wiki/Getting-a-Discord-Bot-Token>). Your file should look like this:
+Then, inside the `config` folder, rename the file *settings.json.example* to *settings.json* and edit the file with your own Discord Token, and the ID's of the owner and the channel where the music should be played. To see how to find these IDs, you  can check out [this guide](<https://github.com/ServerNode/discord-downtime-notifier/wiki/Getting-User,-Channel-and-Server-IDs>). If you don't have a Discord token yet, you can see a guide on how to get one [here](<https://github.com/ServerNode/discord-downtime-notifier/wiki/Getting-a-Discord-Bot-Token>). Your file should look like this:
 
 ```json
 {
