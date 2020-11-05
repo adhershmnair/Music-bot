@@ -57,7 +57,3 @@ npm start
 The bot will automatically start playing music in the configured channel, it will also automatically pause when nobody is listening to the music to save bandwidth.
 
 The music that is played is stored in the `queue.txt` inside the `data` folder. You can add the music you want the bot to play in this file.
-
-## Author
-
-This bot was made by [Jerlag_01](https://github.com/Jerlag01).
